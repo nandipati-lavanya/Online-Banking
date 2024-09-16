@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.image{
+		    height: 50vh;
+		    width:45%;
+		    position: absolute;
+		    top:40%;
+		    left:25%;
+		    display: flex;
+		    justify-content: center;
+		  	overflow: hidden;
+        }
+        #text1{
+		    position: absolute;
+		    top:25%;
+		    left:35%;
+        }
